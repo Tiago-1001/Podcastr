@@ -1,0 +1,1 @@
+{"ast":null,"code":"export default function Home() {\n  return he;\n}","map":{"version":3,"sources":["D:/Rocketseat/AulasNLW/podcastrnext/src/pages/index.tsx"],"names":["Home","he"],"mappings":"AAAA,eAAe,SAASA,IAAT,GAAgB;AAC7B,SACEC,EADF;AAGD","sourcesContent":["export default function Home() {\n  return (\n    he\n  );\n}\n"]},"metadata":{},"sourceType":"module"}
